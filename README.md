@@ -4,6 +4,15 @@
 
 ## My Recent Visualisation Work
 
+* An analysis I am working on:
+  
+  Viz 01: ![01_xg_xga](https://user-images.githubusercontent.com/33928040/109040575-10bf4380-76f4-11eb-8872-b1caf9414c29.jpg)
+  Viz 02: ![02_xg_xga_notes](https://user-images.githubusercontent.com/33928040/109040591-161c8e00-76f4-11eb-9843-a2bd50bb1f6c.jpg)
+  Viz 03: ![03_shot_map_against](https://user-images.githubusercontent.com/33928040/109040603-19177e80-76f4-11eb-92d8-02716246d4a4.jpg)
+  Viz 04: ![04_shot_map_center](https://user-images.githubusercontent.com/33928040/109040613-1cab0580-76f4-11eb-8728-ad03bf23ffba.jpg)
+  Viz 05: ![05_shot_map_right](https://user-images.githubusercontent.com/33928040/109040627-20d72300-76f4-11eb-8498-356b033506f2.jpg)
+
+
 * Visualization on performance of Mason Mount:
   
   Viz 01: ![01_shot_map_lampard](https://user-images.githubusercontent.com/33928040/107977136-a82fe280-6fe0-11eb-8fb6-c50023434429.jpg)
