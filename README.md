@@ -4,16 +4,21 @@
 
 ## My Recent Visualisation Work
 
-* An analysis I am working on:
+* An analysis on FC Barcelona's Defense (work in progress):
   
-  Viz 01: ![01_xg_xga](https://user-images.githubusercontent.com/33928040/109040575-10bf4380-76f4-11eb-8872-b1caf9414c29.jpg)
-  Viz 02: ![02_xg_xga_notes](https://user-images.githubusercontent.com/33928040/109040591-161c8e00-76f4-11eb-9843-a2bd50bb1f6c.jpg)
-  Viz 03: ![03_shot_map_against](https://user-images.githubusercontent.com/33928040/109040603-19177e80-76f4-11eb-92d8-02716246d4a4.jpg)
-  Viz 04: ![04_shot_map_center](https://user-images.githubusercontent.com/33928040/109040613-1cab0580-76f4-11eb-8728-ad03bf23ffba.jpg)
-  Viz 05: ![05_shot_map_right](https://user-images.githubusercontent.com/33928040/109040627-20d72300-76f4-11eb-8498-356b033506f2.jpg)
+  Viz 01: ![01_xg_xga](https://user-images.githubusercontent.com/33928040/112846166-61470980-90c3-11eb-9268-730d871c2b86.jpg)
+  
+  Viz 02: ![04_shot_map](https://user-images.githubusercontent.com/33928040/112849932-2c3cb600-90c7-11eb-989d-54c223a41e52.jpg)
+  
+  Viz 03: ![15_gk](https://user-images.githubusercontent.com/33928040/112850044-47a7c100-90c7-11eb-997a-beb7d12b7e13.jpg)
+  
+  Viz 04: ![16_corner_touch_map](https://user-images.githubusercontent.com/33928040/112850188-6b6b0700-90c7-11eb-95a7-1248ac34cd85.jpg)
 
+  Viz 05: ![23_shot_under_10](https://user-images.githubusercontent.com/33928040/112850298-7faf0400-90c7-11eb-9d37-fdc175b6e158.jpg)
 
-* Visualization on performance of Mason Mount:
+  Viz 06: ![26_set_piece_info](https://user-images.githubusercontent.com/33928040/112850361-8d648980-90c7-11eb-83ed-f5f03ce43870.jpg)
+
+* Visualization for performance of Mason Mount:
   
   Viz 01: ![01_shot_map_lampard](https://user-images.githubusercontent.com/33928040/107977136-a82fe280-6fe0-11eb-8fb6-c50023434429.jpg)
   
