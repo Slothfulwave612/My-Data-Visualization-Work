@@ -1,6 +1,6 @@
 # My-Data-Visualization-Work
 
-⟿ I use Python's package **Matplotlib** to make all the visualizatiions.
+⟿ I use Python's package **Matplotlib** to make all the visualizations.
 
 ## My Recent Visualisation Work
 
