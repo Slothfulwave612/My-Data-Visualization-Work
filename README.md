@@ -17,6 +17,12 @@
   Viz 05: ![23_shot_under_10](https://user-images.githubusercontent.com/33928040/112850298-7faf0400-90c7-11eb-9d37-fdc175b6e158.jpg)
 
   Viz 06: ![26_set_piece_info](https://user-images.githubusercontent.com/33928040/112850361-8d648980-90c7-11eb-83ed-f5f03ce43870.jpg)
+  
+* Lionel Messi's all non-penalty goals for FC Barcelona in La Liga ([link to the tweet](https://twitter.com/slothfulwave612/status/1376607122075623425?s=20)):
+
+  Viz 01: ![final_image](https://user-images.githubusercontent.com/33928040/112939406-0bb54000-9149-11eb-92c6-efa0f1aebdd6.jpg)
+  
+  Viz 02: ![final_image_2](https://user-images.githubusercontent.com/33928040/112939454-1ec81000-9149-11eb-8480-4486ce551035.jpg)
 
 * Visualization for performance of Mason Mount:
   
