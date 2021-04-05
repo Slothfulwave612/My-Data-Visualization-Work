@@ -4,7 +4,7 @@
 
 ## My Recent Visualisation Work
 
-* An analysis on FC Barcelona's Defense (work in progress):
+* An analysis on FC Barcelona's Defense ([link](https://www.patreon.com/posts/49613854)):
   
   Viz 01: ![01_xg_xga](https://user-images.githubusercontent.com/33928040/112846166-61470980-90c3-11eb-9268-730d871c2b86.jpg)
   
