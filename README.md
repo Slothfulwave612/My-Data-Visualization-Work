@@ -4,6 +4,16 @@
 
 ## My Recent Visualisation Work
 
+* Created a new module called PyPizza for plotting pizza-plot in Matplotlib:
+  
+  Viz 01: ![1](https://user-images.githubusercontent.com/33928040/114020519-4f1c5680-988d-11eb-8e73-c08d76f8c247.jpg)
+  
+  Viz 02: ![2](https://user-images.githubusercontent.com/33928040/114020533-53e10a80-988d-11eb-97b9-a5174d6db19b.jpg)
+  
+  Viz 03: ![3](https://user-images.githubusercontent.com/33928040/114020543-56436480-988d-11eb-832f-cf7f7d106b6d.jpg)
+  
+  Viz 04: ![4](https://user-images.githubusercontent.com/33928040/114020549-580d2800-988d-11eb-834b-7ec83d0e7efe.jpg)
+
 * An analysis on FC Barcelona's Defense ([link](https://www.patreon.com/posts/49613854)):
   
   Viz 01: ![01_xg_xga](https://user-images.githubusercontent.com/33928040/112846166-61470980-90c3-11eb-9268-730d871c2b86.jpg)
