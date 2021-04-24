@@ -4,6 +4,12 @@
 
 ## My Recent Visualisation Work
 
+* The Race For The Pichichi ([link](https://twitter.com/slothfulwave612/status/1385993686928936961)):
+  
+  Viz 01: ![01_messi](https://user-images.githubusercontent.com/33928040/115965866-c36f1f00-a548-11eb-849c-75d4f275c014.jpg)
+
+  Viz 02: ![02_benzema](https://user-images.githubusercontent.com/33928040/115965871-ca962d00-a548-11eb-9149-6d4a42cbfcb5.jpg)
+
 * Created a new module called PyPizza for plotting pizza-plot in Matplotlib:
   
   Viz 01: ![1](https://user-images.githubusercontent.com/33928040/114020519-4f1c5680-988d-11eb-8e73-c08d76f8c247.jpg)
