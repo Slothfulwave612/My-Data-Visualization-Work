@@ -4,6 +4,24 @@
 
 ## My Recent Visualisation Work
 
+* Percentage of Minutes Played - FC Barcelona ([link](https://twitter.com/slothfulwave612/status/1386682250326990851?s=20)):
+  
+  Viz 01: ![01_main](https://user-images.githubusercontent.com/33928040/116111557-630ce880-a6d4-11eb-91da-2430cc276d4a.jpg)
+
+  Viz 02: ![02_top_5](https://user-images.githubusercontent.com/33928040/116111567-67390600-a6d4-11eb-907d-238ff8133f1d.jpg)
+  
+  Viz 03: ![03_debut](https://user-images.githubusercontent.com/33928040/116111587-6b652380-a6d4-11eb-9b27-0bef61f97a2d.jpg)
+
+  Viz 04: ![04_resurg](https://user-images.githubusercontent.com/33928040/116111608-7029d780-a6d4-11eb-8390-23364cf9a952.jpg)
+
+  Viz 05: ![05_injured](https://user-images.githubusercontent.com/33928040/116111638-761fb880-a6d4-11eb-8bb7-632aed95b4c9.jpg)
+
+  Viz 06: ![06_puig](https://user-images.githubusercontent.com/33928040/116111654-7ae46c80-a6d4-11eb-89b8-0600dd2991fa.jpg)
+
+  Viz 07: ![07_rot](https://user-images.githubusercontent.com/33928040/116111675-7f108a00-a6d4-11eb-849e-0b1fc90388ff.jpg)
+
+  Viz 08: ![08_rems](https://user-images.githubusercontent.com/33928040/116111691-846dd480-a6d4-11eb-9854-11cdebc7c0f9.jpg)
+
 * The Race For The Pichichi ([link](https://twitter.com/slothfulwave612/status/1385993686928936961)):
   
   Viz 01: ![01_messi](https://user-images.githubusercontent.com/33928040/115965866-c36f1f00-a548-11eb-849c-75d4f275c014.jpg)
