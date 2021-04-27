@@ -4,6 +4,10 @@
 
 ## My Recent Visualisation Work
 
+* Hexbin/honeycomb representation of India's map ([link](https://twitter.com/slothfulwave612/status/1387117022031450116?s=20)):
+  
+  Viz: ![india](https://user-images.githubusercontent.com/33928040/116296485-ec491b80-a7b7-11eb-98b7-334828c28e7f.jpg)
+
 * Percentage of Minutes Played - FC Barcelona ([link](https://twitter.com/slothfulwave612/status/1386682250326990851?s=20)):
   
   Viz 01: ![01_main](https://user-images.githubusercontent.com/33928040/116111557-630ce880-a6d4-11eb-91da-2430cc276d4a.jpg)
