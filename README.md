@@ -4,6 +4,23 @@
 
 ## My Recent Visualisation Work
 
+* Top Three Goalscorers For FC Barcelona From 2014-15 to 2020-21 ([link](https://twitter.com/slothfulwave612/status/1392450387152572419?s=20)):
+
+  Viz: ![03_goals_update](https://user-images.githubusercontent.com/33928040/117973270-cd1ac400-b349-11eb-8f6d-89cf0fd5169e.jpg)
+
+* Sergio Busquets's position/defensive-action heatmap ([link](https://twitter.com/slothfulwave612/status/1392173213661024257?s=20)):
+
+  Viz 01: ![01_heatmap_2020_21](https://user-images.githubusercontent.com/33928040/117972872-4bc33180-b349-11eb-9c83-28cbcb474647.jpg)
+  
+  Viz 02: ![02_heatmap_2019_20](https://user-images.githubusercontent.com/33928040/117972879-4ebe2200-b349-11eb-81ae-cdfa3583b578.jpg)
+  
+  Viz 03: ![03_def_act_2019_20](https://user-images.githubusercontent.com/33928040/117972886-5087e580-b349-11eb-9b49-f9339b6820df.jpg)
+  
+  Viz 04: ![04_def_act_2020_21](https://user-images.githubusercontent.com/33928040/117972889-51b91280-b349-11eb-88e6-3488f6d54e9f.jpg)
+  
+  Viz 05: ![05_diff_touches](https://user-images.githubusercontent.com/33928040/117972894-5382d600-b349-11eb-819b-a39764191d11.jpg)
+
+
 * Hexbin/honeycomb representation of India's map ([link](https://twitter.com/slothfulwave612/status/1387117022031450116?s=20)):
   
   Viz: ![india](https://user-images.githubusercontent.com/33928040/116296485-ec491b80-a7b7-11eb-98b7-334828c28e7f.jpg)
