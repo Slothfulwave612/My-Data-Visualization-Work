@@ -4,6 +4,12 @@
 
 ## My Recent Visualisation Work
 
+* European Golden Boot ([link](https://twitter.com/slothfulwave612/status/1392893492171444225?s=20)):
+  
+  Viz 01: ![06_goals_euro_real](https://user-images.githubusercontent.com/33928040/118163271-6b3c8600-b43f-11eb-8397-c104fcc4f2dc.jpg)
+
+  Viz 02: ![05_goals_euro_twist](https://user-images.githubusercontent.com/33928040/118163283-6e377680-b43f-11eb-94dd-0779ffdf98bf.jpg)
+
 * Top Three Goalscorers For FC Barcelona From 2014-15 to 2020-21 ([link](https://twitter.com/slothfulwave612/status/1392450387152572419?s=20)):
 
   Viz: ![03_goals_update](https://user-images.githubusercontent.com/33928040/117973270-cd1ac400-b349-11eb-8f6d-89cf0fd5169e.jpg)
