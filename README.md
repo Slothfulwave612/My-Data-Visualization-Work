@@ -4,6 +4,16 @@
 
 ## My Recent Visualisation Work
 
+* Percentage of Minutes Played FC Barcelona Femeni ([link](https://twitter.com/slothfulwave612/status/1393954514810458120?s=20)):
+  
+  Viz: ![waffle_](https://user-images.githubusercontent.com/33928040/118403340-9ca99180-b68b-11eb-85d1-3b9a36e133fd.jpg)
+
+* Goalkeeping Performances in La Liga ([link](https://twitter.com/slothfulwave612/status/1393917592675311616?s=20)):
+  
+  Viz 01: ![01_main](https://user-images.githubusercontent.com/33928040/118403379-bd71e700-b68b-11eb-91c1-1d9a7da06fcf.jpg)
+  
+  Viz 02: ![02_table](https://user-images.githubusercontent.com/33928040/118403395-c5318b80-b68b-11eb-963c-c9530ee727b2.jpg)
+
 * European Golden Boot ([link](https://twitter.com/slothfulwave612/status/1392893492171444225?s=20)):
   
   Viz 01: ![06_goals_euro_real](https://user-images.githubusercontent.com/33928040/118163271-6b3c8600-b43f-11eb-8397-c104fcc4f2dc.jpg)
