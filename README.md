@@ -8,19 +8,19 @@
 
 * Shots conceded from corners (under 10 seconds) by La Liga teams. Season 2020-21 ([link](https://twitter.com/slothfulwave612/status/1409438954047246336)):
   
-  Viz 01: ![first_viz](https://user-images.githubusercontent.com/33928040/148647577-c2f77dd0-f679-4f47-b818-28ab9406a9a3.jpg)
+  ![first_viz](https://user-images.githubusercontent.com/33928040/148647577-c2f77dd0-f679-4f47-b818-28ab9406a9a3.jpg)
   
-  Viz 02: ![second_viz](https://user-images.githubusercontent.com/33928040/148647590-6cdebb4e-6cc0-4f06-84fc-9814111a82a6.jpg)
+  ![second_viz](https://user-images.githubusercontent.com/33928040/148647590-6cdebb4e-6cc0-4f06-84fc-9814111a82a6.jpg)
 
 * A look at Barca's past ([link](https://twitter.com/slothfulwave612/status/1398682584184352770?s=20)):
   
-  Viz 01: ![table_01](https://user-images.githubusercontent.com/33928040/148647506-b07b07a6-cdf6-4f78-863d-cae84233ce22.jpg)
+  ![table_01](https://user-images.githubusercontent.com/33928040/148647506-b07b07a6-cdf6-4f78-863d-cae84233ce22.jpg)
   
-  Viz 02: ![table_02](https://user-images.githubusercontent.com/33928040/148647529-7a4ac0fc-8365-49f4-86a9-4f9106dc766e.jpg)
+  ![table_02](https://user-images.githubusercontent.com/33928040/148647529-7a4ac0fc-8365-49f4-86a9-4f9106dc766e.jpg)
 
 * La Liga 2020-21: Total Points Gained At Home & Away ([link](https://twitter.com/slothfulwave612/status/1398366872878215168?s=20)):
   
-  Viz: ![points_gained](https://user-images.githubusercontent.com/33928040/148647476-1b88b5de-96da-4289-aaec-eb5512d142cb.jpg)
+  ![points_gained](https://user-images.githubusercontent.com/33928040/148647476-1b88b5de-96da-4289-aaec-eb5512d142cb.jpg)
 
 * Lionel Messi's Goalscoring Performance In La Liga ([link](https://twitter.com/slothfulwave612/status/1394681828041056256?s=20)):
   
