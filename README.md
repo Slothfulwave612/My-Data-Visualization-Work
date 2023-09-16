@@ -2,15 +2,42 @@
 
 ⟿ I use Python's package **Matplotlib** to make all the visualizations.
 
-⟿ You can view my portfolio [here](https://slothfulwave612.github.io/)
-
 ## My Recent Visualisation Work
+
+* Curved label nightingale chart ([link](https://x.com/slothfulwave612/status/1624444305418113027?s=20)):
+  ![CurvedLabels15Paramsv20230211](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/c67a219b-46be-4af4-ba75-5f2c79a2916d)
+
+* Contributed a couple of visualizations to an in-depth analysis blog post on Dusan Vlahovic ([link](https://twitter.com/slothfulwave612/status/1409438954047246336](https://x.com/slothfulwave612/status/1483447207022202881?s=20))):
+
+  ![heatmap](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/9486f56b-8cfd-45d7-83cd-c8af99885571)
+
+  ![progressive_passes](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/2304a591-b142-4c25-a846-2ef7a5f4d8df)
+
+* Barcelona vs Atlético Madrid:
+
+  ![08_ath_madrid](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/6ee0e71d-ca80-43f8-a4c3-35060d9cf71f)
 
 * Shots conceded from corners (under 10 seconds) by La Liga teams. Season 2020-21 ([link](https://twitter.com/slothfulwave612/status/1409438954047246336)):
   
   ![first_viz](https://user-images.githubusercontent.com/33928040/148647577-c2f77dd0-f679-4f47-b818-28ab9406a9a3.jpg)
   
   ![second_viz](https://user-images.githubusercontent.com/33928040/148647590-6cdebb4e-6cc0-4f06-84fc-9814111a82a6.jpg)
+
+* Bobby Robson's Timeline Before Joining Barca:
+
+  <div style="display: flex; justify-content: center; line-height: 0;">
+    <img src="https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/7f2e5408-40a8-4aa7-a27e-fd3900f7f7da" alt="Image 1" style="margin: 0; padding: 0;">
+    <img src="https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/b8939bf0-14ce-4a73-ac3a-2799e5a1b92a" alt="Image 2" style="margin: 0; padding: 0;">
+    <img src="https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/784a7aae-f6e4-4638-aa45-4b70acae7375" alt="Image 3" style="margin: 0; padding: 0;">
+  </div>
+
+* Squad age wise division:
+
+  ![01_cruyff_last_season](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/3d5c487b-fe43-434d-bc82-ab48813fe762)
+
+* Arrivals and Departures:
+  
+  ![06_table](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/7cc473f9-2dae-4878-b405-45c76253d885)
 
 * A look at Barca's past ([link](https://twitter.com/slothfulwave612/status/1398682584184352770?s=20)):
   
