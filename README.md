@@ -176,6 +176,19 @@
   * Introduced Radar Charts with dark mode (or theme that user wants to color out). ([link](https://twitter.com/slothfulwave612/status/1302687395867844609))
   
   * Introduced Bumpy Charts. ([link](https://twitter.com/slothfulwave612/status/1302688119955681280))
+ 
+* Others:
+
+![pic1](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/eaf8727c-ebe2-4000-be4f-1b2384ab92d0)
+![pic2](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/9676dcee-4d18-4440-aa11-85276bf8fc9b)
+![pic3](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/05ed6fa2-a455-43a2-bf0d-94b97d81ba6c)
+![pic4](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/e5cc5307-265b-45fa-af2a-6bbfab0b7e06)
+![pic5](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/89085a37-4216-4866-af23-2a50fc5223b3)
+![pic6](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/0ecedebe-cc6b-4464-bd58-5b9f2e5d58c1)
+![pic7](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/8f17227d-c4d3-4c1b-bd7a-8e3f896b2ac5)
+![pic8](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/4cc0a50e-2bf3-413f-92e0-f81f953020fd)
+![pic9](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/1909a170-d891-4581-9563-0d3692379671)
+![pic10](https://github.com/Slothfulwave612/My-Data-Visualization-Work/assets/33928040/d12eb3fc-16b2-47f0-90f2-ac47b6a99372)
 
 * Uploaded a tutorial/notebook on "How I make scatter-plot using Matplotlib" ([link to the tweet](https://twitter.com/slothfulwave612/status/1350182105393741825))
   ![img](https://user-images.githubusercontent.com/33928040/105451683-f9c7a480-5ca2-11eb-9258-a4522a842a91.jpeg)
@@ -200,6 +213,7 @@
   Viz 01: ![01_intro](https://user-images.githubusercontent.com/33928040/105452649-af472780-5ca4-11eb-9fce-464ecdf56a72.jpg)
   
   Viz 02: ![02_goal_save](https://user-images.githubusercontent.com/33928040/105452653-b110eb00-5ca4-11eb-8b28-dde0394f6472.jpg)
+  
   
 * Contributed some vizes to [this](https://twitter.com/armbandmedia/status/1336048126352740353) analysis, here is how a heatmap looks like:
 
